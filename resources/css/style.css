@@ -2,12 +2,12 @@ body {
   background-color: black;
   font-family: "Verdana";
   text-align: center;
+  color: White;
 }
 
 h1 {
   font-size: 50px;
   font-weight: normal;
-  color: "White";
 }
 
 h2 {
@@ -17,10 +17,14 @@ h2 {
 
 p {
   font-size: 21px;
-  color: "Gray";
+  color: Gray;
 }
 
 .download {
-  color: "Aquamarine";
+  color: Aquamarine;
   font-size: 16px;
+}
+
+.footer {
+  text-align: right;
 }
